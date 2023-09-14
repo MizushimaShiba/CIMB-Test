@@ -106,6 +106,13 @@ The API should now be running on http://localhost:9090
 - `404 Not Found`: If no blog post with the specified `id` is found.
 - `500 Internal Server Error`: If an unexpected error occurs on the server.
 
+## Built with
+- Spring Boot - The web framework used
+- H2 Database - In-memory database for storing blog post data
+
+## Author
+- Mizushima Shiba 水島芝
+
 
 
 
